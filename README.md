@@ -82,8 +82,7 @@ Your app will run on http://localhost:3000
   - Search by author
   - Search by publication date
   - Search by subject
-- Bookmark a book they are interested in.
-- View their bookmarked books.
+- Bookmark a book they are interested in and view their bookmarked books.
 - At any given time, a student can borrow a max of 'N' number of books based on their educational level.
 - View the overdue fines for his/her account.
 - Receive an email when any of their book request is successful.
