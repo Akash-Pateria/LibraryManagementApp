@@ -6,7 +6,7 @@
 
 Role | Email            | Password | Notes            |
 -----|------------------|----------|------------------|
-Admn | admin@system.com | password | Cannot be deleted|
+Admin| admin@system.com | password | Cannot be deleted|
 
 # Local Deployment
 To run the app locally, follow these steps:
