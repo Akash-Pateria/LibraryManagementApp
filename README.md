@@ -6,7 +6,7 @@
 
 Role | Email            | Password | Notes            |
 -----|------------------|----------|------------------|
-Admn | admin@system.com | password | Cannot be deleted|
+Admin| admin@system.com | password | Cannot be deleted|
 
 # Local Deployment
 To run the app locally, follow these steps:
@@ -18,7 +18,7 @@ git clone https://github.com/Akash-Pateria/LibraryManagementApp/edit/master/READ
     
 - Go to the directory of the project where it is cloned using terminal
 ~~~
-cd ~/RealEstateApp
+cd ~/LibraryManagementApp
 ~~~
     
 - Install gems
